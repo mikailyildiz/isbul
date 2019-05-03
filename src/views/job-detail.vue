@@ -37,7 +37,7 @@ export default {
   },
 
   data: () => ({
-    job: ""
+    job: Job
   }),
 
   created() {
