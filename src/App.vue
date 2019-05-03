@@ -1,28 +1,27 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <b-navbar toggleable="lg" type="dark" variant="primary">
+      <router-link :to="{name: 'joblist'}" target="_self" class="navbar-brand">İşBul</router-link>
+      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+      <b-collapse id="nav-collapse" is-nav>
+        <b-navbar-nav>
+          <router-link :to="{name:'joblist'}" tag="li" active-class="active" exact>
+            <a class="nav-link">İlanlar</a>
+          </router-link>
+        </b-navbar-nav>
+      </b-collapse>
+    </b-navbar>
+    <b-container class="mt-5">
+      <transition name="fade">
+      <router-view></router-view>
+      </transition>
+    </b-container>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
