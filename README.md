@@ -10,7 +10,7 @@
 <h2>Özellikler</h2>
 <ul>
   <li>İlan listeleme</li>
-  <li>İş tanımına göre</li>
+  <li>İş tanımına göre arama</li>
   <li>İlan adresine göre arama</li>
   <li>İlan detayı görüntüleme</li>
   <li>Google harita üzerinde gösterme</li>
