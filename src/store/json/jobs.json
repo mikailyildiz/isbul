@@ -9,7 +9,7 @@
         "distance": 1,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "1.cadde Site Yolu Sokak No:7 34768 ümraniye Turkey",
+        "address": "1.cadde Site Yolu Sokak No:7 34768 ümraniye istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
@@ -51,7 +51,7 @@
         "distance": 10,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "4.cadde Site Yolu Sokak No:7 34768 kadıköy Turkey",
+        "address": "4.cadde Site Yolu Sokak No:7 34768 kadıköy istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
@@ -65,7 +65,7 @@
         "distance": 5,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "5.cadde Site Yolu Sokak No:7 34768 ümraniye Turkey",
+        "address": "5.cadde Site Yolu Sokak No:7 34768 ümraniye istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
@@ -93,7 +93,7 @@
         "distance": 2,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "7.cadde Site Yolu Sokak No:7 34768 fatih Turkey",
+        "address": "7.cadde Site Yolu Sokak No:7 34768 fatih istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
@@ -107,7 +107,7 @@
         "distance": 1,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "8.cadde Site Yolu Sokak No:7 34768 ümraniye Turkey",
+        "address": "8.cadde Site Yolu Sokak No:7 34768 ümraniye istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
@@ -121,7 +121,7 @@
         "distance": 10,
         "city": "istanbul",
         "phone": "+90 216 123 45 45",
-        "address": "9.cadde Site Yolu Sokak No:7 34768 maltepe Turkey",
+        "address": "9.cadde Site Yolu Sokak No:7 34768 maltepe istanbul Turkey",
         "latitude": 41.0266502,
         "longitude": 29.1157803
     },
